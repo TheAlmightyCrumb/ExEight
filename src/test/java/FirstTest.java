@@ -110,8 +110,8 @@ public class FirstTest {
     /* Ex. 10 */
     /*
     Is running tests on multiple browsers in parallel is possible? Which tool can be used for it?
-    --> Yes. Selenium Grid.
-        Want to run tests in parallel across multiple machines? Then, Grid is for you!
+    --> Yes. Selenium Grid. https://www.selenium.dev/documentation/grid/
+        "Want to run tests in parallel across multiple machines? Then, Grid is for you!"
     */
 
     @AfterClass
