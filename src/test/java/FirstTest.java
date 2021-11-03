@@ -16,7 +16,7 @@ public class FirstTest {
 
     @BeforeClass
     public static void initialiseDriver() {
-        System.setProperty("webdriver.chrome.driver", "src/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/Users/batman/Downloads/chromedriver");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
     }
